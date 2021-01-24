@@ -9,7 +9,7 @@ on netlify
 ![images](https://i.postimg.cc/GH97kkQL/Screenshot-242.png=500x)
 ![images](https://i.postimg.cc/BXyhNXYx/Screenshot-243.png)
 ![images](https://i.postimg.cc/3yjnK9KB/Screenshot-244.png)
-<a href="url"><img src="https://i.postimg.cc/3yjnK9KB/Screenshot-244.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://i.postimg.cc/3yjnK9KB/Screenshot-244.png" align="left" height="500" width="500" ></a>
 
 
 ## Deployment
