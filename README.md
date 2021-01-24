@@ -8,7 +8,7 @@ on netlify
 
 ## Deployment
 
-This project is live and hosted on [link](https://alumni-connect-ba161.web.app/)
+This project is live and hosted on [link](https://newsbyvoices.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
