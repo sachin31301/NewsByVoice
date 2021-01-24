@@ -5,6 +5,11 @@
 on netlify
 • Used NewsAPI for fetching News
 
+## Screenshots
+![images](https://i.postimg.cc/GH97kkQL/Screenshot-242.png)
+![images](https://i.postimg.cc/BXyhNXYx/Screenshot-243.png)
+![images](https://i.postimg.cc/3yjnK9KB/Screenshot-244.png)
+
 
 ## Deployment
 
