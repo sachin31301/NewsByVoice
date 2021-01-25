@@ -11,6 +11,11 @@ on netlify
 ## Deployment
 
 This project is live and hosted on [link](https://newsbyvoices.netlify.app/)
+
+## Screenshots
+![Screenshot (245)](https://user-images.githubusercontent.com/59499244/105731141-1a1e8a00-5f55-11eb-92aa-35a9ac171528.png)
+![Screenshot (246)](https://user-images.githubusercontent.com/59499244/105731151-1db21100-5f55-11eb-9de0-061001a83226.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
